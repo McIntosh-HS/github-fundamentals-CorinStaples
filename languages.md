@@ -9,7 +9,7 @@ This file lists different programming languages and information about them.
 
 ## The Elixir Programming Languages
 - Elixir Awesome: https://github.com/h4cc/awesome-elixir#readm_
-- Elixir Creator:José Valim
+- Elixir Creator: José Valim
 - Elixir Description: A functional, concurrent, high-level general-purpose programming language that runs on the BEAM 
 			virtual machine, which is also used to implement the Erlang programming language.
 - Elixer Age: 13 years
