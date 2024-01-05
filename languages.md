@@ -7,7 +7,7 @@ This file lists different programming languages and information about them.
 - SQL Description: A programming language for storing and processing information in a relational database.
 - SQL Age: 44 years
 
-## The ___ Programming Languages
+## The Elixir Programming Languages
 - Elixir Awesome: https://github.com/h4cc/awesome-elixir#readm_
 - Elixir Creator:José Valim
 - Elixir Description: A functional, concurrent, high-level general-purpose programming language that runs on the BEAM 
